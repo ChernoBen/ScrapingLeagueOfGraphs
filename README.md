@@ -1,3 +1,3 @@
 # ChernoBen
-Getting 5 rank  table form league of graphs 
+Getting top 5 rank table from league of graphs 
 
